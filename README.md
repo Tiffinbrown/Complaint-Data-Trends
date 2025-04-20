@@ -14,6 +14,9 @@ This project explores customer complaint data collected over three years to unco
 
 These insights can help inform operational adjustments and improve customer response strategies.
 
+[📊 View the Excel Dashboard](https://1drv.ms/x/c/83ddedabe2174cf4/EWcflWiUCGBAkGOUUPdDMuIBGxq_M3dLgxbDU7hppdxbzg?e=MoiKvo&nav=MTVfezQ5RTEwOERFLUY1NjQtNDE5RC05OTkxLTZFOEQ2MUIyQTRCNH0)
+
+
 # 🔍 What I Did
 Cleaned and transformed the raw dataset:
 
